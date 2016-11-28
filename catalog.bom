@@ -22,6 +22,7 @@ brooklyn.catalog:
   name: ActiveMQ Broker
   description: ActiveMQ is an open source message broker which fully implements the Java Message Service 1.1 (JMS)
   itemType: template
+  iconUrl: https://upload.wikimedia.org/wikipedia/commons/4/42/Apache-activemq-logo.png
   license: Apache-2.0
   publish:
     license_code: Apache-2.0
